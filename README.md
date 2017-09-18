@@ -1,2 +1,0 @@
-# chef-fluency
-chef-training
